@@ -1,0 +1,4 @@
+number of more than -140 from 10000 test : 9871 98.71%
+number of more than -150 from 10000 test :  10000 100.0%
+rewards mean is : -134.9717
+rewards std is : 2.8762995515071093
