@@ -1,0 +1,32 @@
+1) random vs random
+Result: -1   Client1_Delay: 0.0   Client2_Delay: 0.0
+
+2) random vs original(1):
+Result: 1   Client1_Delay: 0.0   Client2_Delay: 0.002
+
+3) random vs pruning(1):
+Result: 1   Client1_Delay: 0.0   Client2_Delay: 0.005
+
+4) original(1) vs pruning(1):
+Result: 0   Client1_Delay: 0.003   Client2_Delay: 0.003
+
+5) random vs original(2):
+Result: 1   Client1_Delay: 0.0   Client2_Delay: 0.027
+
+6) random vs pruning(2):
+Result: 1   Client1_Delay: 0.0   Client2_Delay: 0.006
+
+7) original(2) vs pruning(2):
+Result: 0   Client1_Delay: 0.116   Client2_Delay: 0.012
+
+8) random vs original(3):
+Result: -1   Client1_Delay: 0.001   Client2_Delay: 0.656
+
+9) random vs pruning(3):
+Result: -1   Client1_Delay: 0.0   Client2_Delay: 0.084
+
+10) original(3) vs pruning(3):
+Result: 1   Client1_Delay: 1.013   Client2_Delay: 0.104
+
+11) pruning(4) vs pruning(3):
+Result: 1   Client1_Delay: 0.435   Client2_Delay: 0.092
